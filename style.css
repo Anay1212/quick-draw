@@ -1,0 +1,21 @@
+body {
+    background-color:#333333;
+}
+
+.text {
+color:#f5dc65;
+font-family:sans-serif;
+font-size:20px;
+}
+#show_sketch{
+ float:right;
+ margin-right:10px; 
+}
+
+.span1 {
+    margin-left:50px;
+}
+
+#Sketch_to_be_drawn {
+    color:#ff6347;
+}
